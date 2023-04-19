@@ -1,0 +1,6 @@
+.*
+docs/build/*
+docs/source/api/generated
+docs/tmp
+!.gitignore
+nohup.out
